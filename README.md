@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+ <img width="100%" src="https://user-images.githubusercontent.com/381179/87087365-f38b4280-c200-11ea-880c-90f2810f79d1.gif" />
+</p>
 
-<!--
-**davidsonfellipe/davidsonfellipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
 
-Here are some ideas to get you started:
+### Hello, I'm Davidson! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Engineering Manager at [@loadsmart](https://github.com/loadsmart/) <br>
+🏡 Brazilian who lived in Recife ✈️ Rio de Janeiro ✈️ New York City (now)
+  
+
+### Find me around the web 🌎
+
+📺 https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg <br>
+🐦 https://twitter.com/davidsonfellipe <br>
+💼 https://www.linkedin.com/in/fellipe/ <br>
+🚀 https://fellipe.com/ <br>
+
+Cheers!
+</samp>
