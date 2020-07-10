@@ -7,8 +7,7 @@
 ### Hello, I'm Davidson! 👋
 
 💻 Engineering Manager at [@loadsmart](https://github.com/loadsmart/) <br>
-🏡 Brazilian who lived in Recife ✈️ Rio de Janeiro ✈️ New York City (now)
-  
+🏡 Brazilian, Based in Brooklyn, NY. 
 
 ### Find me around the web 🌎
 
