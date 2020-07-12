@@ -4,17 +4,23 @@
 
 <samp>
 
-### Hello, I'm Davidson! 👋
+### 👋 Hello, I'm Davidson!
 
 💻 Engineering Manager at [@loadsmart](https://github.com/loadsmart/) <br>
 🏡 Brazilian, Based in Brooklyn, NY. 
 
-### Find me around the web 🌎
+### 🌎 Find me around the web
 
 📺 https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg <br>
 🐦 https://twitter.com/davidsonfellipe <br>
 💼 https://www.linkedin.com/in/fellipe/ <br>
 🚀 https://fellipe.com/ <br>
 
+
+### 📺 Latest video from my youtube channel (in portuguese)
+
+[![🤖 Habilitando Notificações de Deploy no SLACK via Netlify · Tutorial Netlify #4](http://img.youtube.com/vi/OzX7Rm0w87I/0.jpg)](http://www.youtube.com/watch?v=OzX7Rm0w87I "🤖 Habilitando Notificações de Deploy no SLACK via Netlify · Tutorial Netlify #4")
+
 Cheers!
+
 </samp>
