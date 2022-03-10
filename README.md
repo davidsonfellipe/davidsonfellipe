@@ -6,7 +6,7 @@
 
 ### 👋 Hello, I'm Davidson!
 
-💻 Engineering Manager at [@loadsmart](https://github.com/loadsmart/) <br>
+💻 Lead Software Engineer at [@salesforce](https://www.salesforce.com/), Commerce Search Team <br>
 🏡 Brazilian, Based in Brooklyn, NY. 
 
 ### 🌎 Find me around the web
