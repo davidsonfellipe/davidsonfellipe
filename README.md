@@ -6,7 +6,7 @@
 
 ### 👋 Hello, I'm Davidson!
 
-💻 Lead Software Engineer at [@salesforce](https://www.salesforce.com/), Commerce Search Team <br>
+💻 Engineering Manager at [@salesforce](https://www.salesforce.com/), Commerce Search Team <br>
 🏡 Brazilian, Based in Brooklyn, NY. 
 
 ### 🌎 Find me around the web
