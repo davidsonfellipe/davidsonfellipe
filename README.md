@@ -3,7 +3,7 @@
 
 ### 👋 Hello, I'm Davidson!
 
-💻 Engineering Manager at [@salesforce](https://www.salesforce.com/), Commerce Search Team <br>
+💻 Software Engineer and Engineering Manager - Open to Work<br>
 🏡 Brazilian, Based in Brooklyn, NY. 
 
 ### 🌎 Find me around the web
