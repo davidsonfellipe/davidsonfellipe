@@ -3,7 +3,7 @@
 
 ### 👋 Hello, I'm Davidson!
 
-💻 Software Engineer and Engineering Manager - Open to Work<br>
+💻 Software Engineer and Engineering Manager<br>
 🏡 Brazilian, Based in Brooklyn, NY. 
 
 ### 🌎 Find me around the web
