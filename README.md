@@ -13,10 +13,10 @@ since=2010 on GitHub
 ### `$ ls ./career/`
 
 ```
-drwx  upgrade/          # current - fintech
-drwx  salesforce/       # commerce enterprise scale
-drwx  loadsmart/        # logistics · founding engineer · startup 🦄
-drwx  globo/            # media · millions of users in latam
+drwx  upgrade/          # senior software engineer, front-end · fintech/neobank
+drwx  salesforce/       # lead engineer → eng manager, front-end · commerce cloud
+drwx  loadsmart/        # founding engineer → eng manager · logistics 🦄
+drwx  globo/            # software engineer → senior, front-end · latam's largest media conglomerate
 ```
 
 ---
