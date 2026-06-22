@@ -25,8 +25,8 @@ drwx  globo/            # software engineer → senior, front-end · latam's lar
 
 | repo | stars | note |
 |------|------:|------|
-| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | 8.8k+ | Web Performance Optimization — **start here** |
-| [lena.js](https://github.com/davidsonfellipe/lena.js) | 678 | Image processing library |
+| [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) | 8.9k+ | Web Performance Optimization — **start here** |
+| [lena.js](https://github.com/davidsonfellipe/lena.js) | 679 | Image processing library |
 | [im-coder](https://github.com/davidsonfellipe/im-coder) | 125 | :metal: |
 | [keepfast](https://github.com/keepfast/keepfast) | 104 | Web performance monitoring — PageSpeed & YSlow |
 
